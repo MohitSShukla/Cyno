@@ -1,2 +1,2 @@
-# Rep.-No.-1
+# Cyno
 This is my first Repository!
